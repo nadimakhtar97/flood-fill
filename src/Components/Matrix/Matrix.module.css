@@ -1,0 +1,16 @@
+
+.Matrix{
+
+    display: flex;
+    padding: auto;
+    margin: 50px auto;
+    /* max-height: 500px; */
+    /* max-width: 1000px; */
+    background-color: black;
+    overflow:hidden;
+    justify-content: center;
+
+}
+
+
+

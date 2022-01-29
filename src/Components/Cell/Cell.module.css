@@ -1,0 +1,32 @@
+.size{
+    height: 50px;
+    width: 50px;
+}
+
+.water{
+
+    background-color: skyblue;
+    border: black 1px solid;
+}
+
+
+.land{
+
+
+    background-color: white;
+    border: black 1px solid;
+}
+
+
+.mountain{
+
+    background-color: brown;
+    border: black 1px solid;
+}
+
+
+.cell{
+
+    background-color: white;
+    border: black 1px solid;
+}
